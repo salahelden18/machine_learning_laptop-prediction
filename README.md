@@ -1,1 +1,2 @@
-"# machine_learning_laptop-prediction" 
+# the dataset from kaggle 
+i used LinearRegression and Radge
