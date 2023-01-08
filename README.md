@@ -1,2 +1,2 @@
 # the dataset from kaggle 
-i used LinearRegression and Radge
+i used LinearRegression and Ridge
